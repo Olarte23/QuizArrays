@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Quiz.Arrays.Logic.OneDimension">
+    <Position X="170" Y="166.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAAAAAAACAAAEAAAAAAAAAAAAAAAIAAAAABIAAAA=</HashCode>
+      <FileName>OneDimension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quiz.Arrays.Logic.TwoDimensions">
+    <Position X="171.75" Y="166.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAABAAAAACAAAAAAAABIAAAA=</HashCode>
+      <FileName>TwoDimensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
